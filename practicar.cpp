@@ -6,7 +6,7 @@ char name[100];
 int age;
 char initial;
 float grade;
-cout << "First Name, Age, Initial, GPA." << "\n";
+printf("First Name, Age, Initial, GPA.");
 scanf("%s\n", &name );
 scanf("%d\n", &age );
 scanf("%c\n", &initial );
